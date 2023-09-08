@@ -1,3 +1,5 @@
 rootProject.name = 'otus-java-pro'
 include 'java-pro-hw1'
+include 'java-pro-hw2'
+include 'java-pro-hw3'
 
